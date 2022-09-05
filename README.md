@@ -35,8 +35,9 @@
 
 <br><br>
 ### 🏆 Git Stats 🏆
-![objectio's GitHub stats](https://github-readme-stats.vercel.app/api?username=objectio&show_icons=true&theme=prussian)
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=objectio&layout=compact"/>
+ <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=objectio&show_icons=true&theme=prussian"/>
+ <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=objectio&layout=compact"/>
+<br>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=ADE4F4)
 </div>
