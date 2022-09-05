@@ -6,8 +6,8 @@
   
 ### ✨ About Me ✨
  Hi there! My name is younji kim. I'm walking on the road to become a graphic engineer 💪 <br>
-⦁ 🌱 I'm current learning **graphic rendering**, **unreal engine** <br>
-⦁ 🤔 I’m current studying **research paper about VR/AR** &nbsp;&ensp;&ensp;&ensp;&emsp;&emsp; <br>
+⦁ 🌱 I'm current learning **graphic rendering**, **unreal engine** &nbsp;&emsp;&emsp;&emsp;<br>
+⦁ 📚 I’m current studying **research paper about VR/AR** &nbsp;&nbsp;&ensp;&ensp;&ensp;&emsp;&emsp;&emsp; <br>
 ⦁ 🤔 I'm looking for help with **entering American Graduate School**
   
 #### 📫 You can reach me on
