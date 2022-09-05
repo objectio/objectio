@@ -3,7 +3,11 @@
 <!--
 **objectio/objectio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack 💻
+<img alt="Csharp" src="https://img.shields.io/badge/Csharp-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/>
+<img alt="Unity" src="https://img.shields.io/badge/Unity-FAFAFA.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
+<img alt="UnrealEngine" src="https://img.shields.io/badge/Unreal-0E1128.svg?&style=for-the-badge&logo=UnrealEngine&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
