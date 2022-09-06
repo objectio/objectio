@@ -4,11 +4,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ADE4F4&height=300&section=header&text=objectio&fontSize=90&fontColor=367D91&animation=fadeIn&fontAlignY=38&desc=Younji%20Kim&descAlignY=51&descAlign=62)
 
   
-### ✨ About Me ✨
+### 💙 About Me 💙
  Hi there! My name is younji kim. I'm walking on the road to become a graphic engineer 💪 <br>
 ⦁ 🌱 I'm current learning **graphic rendering**, **unreal engine** &nbsp;&emsp;&emsp;&emsp;<br>
-⦁ 📚 I’m current studying **research paper about VR/AR** &nbsp;&nbsp;&ensp;&ensp;&ensp;&emsp;&emsp;&emsp; <br>
-⦁ 🤔 I'm looking for help with **entering American Graduate School**
+⦁ 📘 I’m current studying **research paper about VR/AR** &nbsp;&nbsp;&ensp;&ensp;&ensp;&emsp;&emsp;&emsp; <br>
+⦁ 🔎 I'm looking for help with **entering American Graduate School**
   
 #### 📫 You can reach me on
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://objectio.github.io/)](https://objectio.github.io/) 
@@ -34,7 +34,7 @@
 <br>
 
 <br><br>
-### 🏆 Git Stats 🏆
+### 💎 Git Stats 💎
  <img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api?username=objectio&show_icons=true&theme=prussian"/>
  <img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=objectio&layout=compact&theme=prussian"/>
 <br>
