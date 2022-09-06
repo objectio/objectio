@@ -35,8 +35,8 @@
 
 <br><br>
 ### 💎 Git Stats 💎
- <img align="center" style="height:100px" src="https://github-readme-stats.vercel.app/api?username=objectio&show_icons=true&theme=prussian"/>
- <img align="center" style="height:100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=objectio&layout=compact&theme=prussian"/>
+ <img align="center" style="height:130px" src="https://github-readme-stats.vercel.app/api?username=objectio&show_icons=true&theme=prussian"/>
+ <img align="center" style="height:130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=objectio&layout=compact&theme=prussian"/>
 <br>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=ADE4F4)
