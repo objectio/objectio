@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=ADE4F4&height=300&section=header&text=Younji%20Kim&fontSize=90&fontColor=367D91&animation=fadeIn&fontAlignY=38&desc=objectio&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ADE4F4&height=300&section=header&text=Younji%20Kim&fontSize=90&fontColor=367D91&animation=fadeIn&fontAlignY=38&desc=jayde&descAlignY=51&descAlign=62)
 
   
 ### 💙 About Me 💙
